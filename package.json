@@ -1,5 +1,5 @@
 {
-    "name": "graphql",
+    "name": "graphql-http",
     "version": "1.0.0",
     "description": "",
     "main": "backend.js",
@@ -11,7 +11,7 @@
     "license": "ISC",
     "dependencies": {
         "express": "^4.18.2",
-        "express-graphql": "^0.12.0",
-        "graphql": "^15.8.0"
+        "express-graphql-http": "^0.12.0",
+        "graphql-http": "^15.8.0"
     }
 }
